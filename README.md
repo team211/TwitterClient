@@ -27,6 +27,6 @@ Running a Jar file from the other team
 
   (1) cd bin
   
-  (2) jar xf ../hk.ust.cse.TwitterClient.jar (don't know how to run jar? Google it!)
+  (2) jar xf ../hk.ust.cse.TwitterClient.jar
   
 2) Go back to your project directory and execute command: ant run-jar
